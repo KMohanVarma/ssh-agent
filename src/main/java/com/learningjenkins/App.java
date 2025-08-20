@@ -6,8 +6,8 @@ package com.learningjenkins;
  */
 public class App
 {
-    public static String main()
+    public static void main(String[] args)
     {
-        return "Hello World!";
+        System.out.println("Hello World!");
     }
 }
